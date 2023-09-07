@@ -1,0 +1,15 @@
+D:\Proj\Csharp-From-Scrach\Buckles\bin\Debug\net8.0\Buckles.exe
+D:\Proj\Csharp-From-Scrach\Buckles\bin\Debug\net8.0\Buckles.deps.json
+D:\Proj\Csharp-From-Scrach\Buckles\bin\Debug\net8.0\Buckles.runtimeconfig.json
+D:\Proj\Csharp-From-Scrach\Buckles\bin\Debug\net8.0\Buckles.dll
+D:\Proj\Csharp-From-Scrach\Buckles\bin\Debug\net8.0\Buckles.pdb
+D:\Proj\Csharp-From-Scrach\Buckles\obj\Debug\net8.0\Buckles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\Csharp-From-Scrach\Buckles\obj\Debug\net8.0\Buckles.AssemblyInfoInputs.cache
+D:\Proj\Csharp-From-Scrach\Buckles\obj\Debug\net8.0\Buckles.AssemblyInfo.cs
+D:\Proj\Csharp-From-Scrach\Buckles\obj\Debug\net8.0\Buckles.csproj.CoreCompileInputs.cache
+D:\Proj\Csharp-From-Scrach\Buckles\obj\Debug\net8.0\Buckles.sourcelink.json
+D:\Proj\Csharp-From-Scrach\Buckles\obj\Debug\net8.0\Buckles.dll
+D:\Proj\Csharp-From-Scrach\Buckles\obj\Debug\net8.0\refint\Buckles.dll
+D:\Proj\Csharp-From-Scrach\Buckles\obj\Debug\net8.0\Buckles.pdb
+D:\Proj\Csharp-From-Scrach\Buckles\obj\Debug\net8.0\Buckles.genruntimeconfig.cache
+D:\Proj\Csharp-From-Scrach\Buckles\obj\Debug\net8.0\ref\Buckles.dll
