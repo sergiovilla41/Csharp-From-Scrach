@@ -1,49 +1,33 @@
 ﻿class Rectangulo
 {
-    
+    // Propiedades para la base y la altura del rectángulo
     public double Base { get; set; }
-
-    
     public double Altura { get; set; }
 
-    
+    // Constructor que recibe la base y la altura como parámetros
     public Rectangulo(double baseRectangulo, double alturaRectangulo)
     {
         Base = baseRectangulo;
         Altura = alturaRectangulo;
     }
 
- 
-    public double CalcularArea()=>Base * Altura;
-   
+    // Método para calcular el área del rectángulo
+    public double CalcularArea()
+    {
+        return Base * Altura;
+    }
 
+    // Método para calcular el perímetro del rectángulo
     public double CalcularPerimetro()
     {
         return 2 * (Base + Altura);
     }
 }
 
-class EJEC
+class Cuadrado : Rectangulo
 {
-    static void Main()
+    // Constructor que recibe el lado del cuadrado como parámetro
+    public Cuadrado(double lado) : base(lado, lado)
     {
-       
-        Console.Write("Ingrese la base del rectángulo: ");
-        double baseRectangulo = Convert.ToDouble(Console.ReadLine());
-
-        
-        Console.Write("Ingrese la altura del rectángulo: ");
-        double alturaRectangulo = Convert.ToDouble(Console.ReadLine());
-
-       
-        Rectangulo miRectangulo = new Rectangulo(baseRectangulo, alturaRectangulo);
-
-        
-        double area = miRectangulo.CalcularArea();
-        Console.WriteLine("Área del rectángulo: " + area);
-
-        
-        double perimetro = miRectangulo.CalcularPerimetro();
-        Console.WriteLine("Perímetro del rectángulo: " + perimetro);
     }
 }
