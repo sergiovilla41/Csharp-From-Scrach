@@ -14,11 +14,8 @@
     }
 
  
-    public double CalcularArea()
-    {
-        return Base * Altura;
-    }
-
+    public double CalcularArea()=>Base * Altura;
+   
 
     public double CalcularPerimetro()
     {
@@ -26,7 +23,7 @@
     }
 }
 
-class Program
+class EJEC
 {
     static void Main()
     {
