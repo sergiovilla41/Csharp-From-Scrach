@@ -1,0 +1,15 @@
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\bin\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.exe
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\bin\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.deps.json
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\bin\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.runtimeconfig.json
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\bin\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.dll
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\bin\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.pdb
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\obj\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\obj\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.AssemblyInfoInputs.cache
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\obj\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.AssemblyInfo.cs
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\obj\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.csproj.CoreCompileInputs.cache
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\obj\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.sourcelink.json
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\obj\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.dll
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\obj\Debug\net8.0\refint\Buckles_Polymorphis_and_Exceptions.dll
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\obj\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.pdb
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\obj\Debug\net8.0\Buckles_Polymorphis_and_Exceptions.genruntimeconfig.cache
+D:\Proj\Csharp-From-Scrach\Buckles_Polymorphis_and_Exceptions\obj\Debug\net8.0\ref\Buckles_Polymorphis_and_Exceptions.dll

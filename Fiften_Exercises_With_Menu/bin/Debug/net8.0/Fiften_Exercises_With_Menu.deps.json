@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fiften_Exercises_With_Menu/1.0.0": {
+        "runtime": {
+          "Fiften_Exercises_With_Menu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fiften_Exercises_With_Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
