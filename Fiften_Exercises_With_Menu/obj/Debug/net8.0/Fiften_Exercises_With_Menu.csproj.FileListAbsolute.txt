@@ -1,0 +1,15 @@
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\obj\Debug\net8.0\Fiften_Exercises_With_Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\obj\Debug\net8.0\Fiften_Exercises_With_Menu.AssemblyInfoInputs.cache
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\obj\Debug\net8.0\Fiften_Exercises_With_Menu.AssemblyInfo.cs
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\obj\Debug\net8.0\Fiften_Exercises_With_Menu.csproj.CoreCompileInputs.cache
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\obj\Debug\net8.0\Fiften_Exercises_With_Menu.sourcelink.json
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\bin\Debug\net8.0\Fiften_Exercises_With_Menu.exe
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\bin\Debug\net8.0\Fiften_Exercises_With_Menu.deps.json
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\bin\Debug\net8.0\Fiften_Exercises_With_Menu.runtimeconfig.json
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\bin\Debug\net8.0\Fiften_Exercises_With_Menu.dll
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\bin\Debug\net8.0\Fiften_Exercises_With_Menu.pdb
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\obj\Debug\net8.0\Fiften_Exercises_With_Menu.dll
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\obj\Debug\net8.0\refint\Fiften_Exercises_With_Menu.dll
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\obj\Debug\net8.0\Fiften_Exercises_With_Menu.pdb
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\obj\Debug\net8.0\Fiften_Exercises_With_Menu.genruntimeconfig.cache
+D:\Proj\Csharp-From-Scrach\Fiften_Exercises_With_Menu\obj\Debug\net8.0\ref\Fiften_Exercises_With_Menu.dll
